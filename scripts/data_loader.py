@@ -6,7 +6,9 @@ DATA_FILES = {
     "benin": "benin-malanville.csv",
     "sierraleone": "sierraleone-bumbuna.csv",
     "togo": "togo-dapaong_qc.csv",
-    'benin_cleaned':'benin_clean.csv'
+    'benin_cleaned':'benin_clean.csv',
+    'sierraleone_cleaned':'seirraleone_clean.csv',
+    'togo_cleaned':'togo_clean.csv'
 }
 
 # Get full path for 
